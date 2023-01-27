@@ -1,11 +1,11 @@
 {
   "name": "vehicles-and-mechanisms",
-  "title": "Vehicles and Mechanisms",
+  "title": "Vehicles and Mechanisms - Revived",
   "description": "<p>Adds a way to control multiple scene elements (tokens, tiles, walls, and so on) as a single unit, so that they all move and rotate at once. The concept is flexible and can be used for general automation, traps, or other mechanisms with moving parts.</p><p>See page at URL below for full usage instructions.</p>",
   "author": "grandseiken",
-  "version": "0.4.1",
-  "minimumCoreVersion": "9",
-  "compatibleCoreVersion": "9",
+  "version": "0.5.0",
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "10",
   "dependencies": [
     {
       "type": "module",
@@ -25,7 +25,7 @@
       "path": "lang/ja.json"
     }
   ],
-  "url": "https://github.com/grandseiken/foundryvtt-vehicles-and-mechanisms",
-  "manifest": "https://raw.githubusercontent.com/grandseiken/foundryvtt-vehicles-and-mechanisms/master/module.json",
-  "download": "https://github.com/grandseiken/foundryvtt-vehicles-and-mechanisms/archive/v0.4.1.zip"
+  "url": "https://github.com/GameCrazed/foundryvtt-vehicles-and-mechanisms",
+  "manifest": "https://raw.githubusercontent.com/GameCrazed/foundryvtt-vehicles-and-mechanisms/master/module.json",
+  "download": "https://github.com/GameCrazed/foundryvtt-vehicles-and-mechanisms/archive/refs/heads/master.zip"
 }
