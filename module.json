@@ -5,7 +5,7 @@
   "author": "grandseiken",
   "version": "0.5.0",
   "minimumCoreVersion": "10",
-  "compatibleCoreVersion": "10",
+  "compatibleCoreVersion": "11",
   "dependencies": [
     {
       "type": "module",
